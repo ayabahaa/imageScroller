@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.9.0)
+  - TitleImageEdgeinsetsButton (0.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - TitleImageEdgeinsetsButton
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - TitleImageEdgeinsetsButton
+
+SPEC CHECKSUMS:
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  TitleImageEdgeinsetsButton: ed86a5e4fe43484291e43dcaf23666cbe4190ddb
+
+PODFILE CHECKSUM: a596de400f480d13f571eda7e406c068388f17e0
+
+COCOAPODS: 1.7.5

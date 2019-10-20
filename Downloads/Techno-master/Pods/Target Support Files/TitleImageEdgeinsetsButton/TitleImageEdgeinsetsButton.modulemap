@@ -1,0 +1,6 @@
+framework module TitleImageEdgeinsetsButton {
+  umbrella header "TitleImageEdgeinsetsButton-umbrella.h"
+
+  export *
+  module * { export * }
+}
