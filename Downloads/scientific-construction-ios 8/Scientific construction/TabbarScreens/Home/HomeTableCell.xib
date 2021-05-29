@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="Stack View standard spacing" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" rowHeight="193" id="KGk-i7-Jjw" customClass="HomeTableCell" customModule="Scientific_construction" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="458" height="193"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="458" height="193"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="n61-oJ-vap">
+                        <rect key="frame" x="0.0" y="15" width="338" height="66"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="zWo-3V-k4i">
+                                <rect key="frame" x="10" y="10" width="328" height="56"/>
+                                <subviews>
+                                    <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="k02-lK-o2q">
+                                        <rect key="frame" x="0.0" y="0.0" width="100" height="56"/>
+                                        <subviews>
+                                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ShekhImage" translatesAutoresizingMaskIntoConstraints="NO" id="3UH-ZP-lEV">
+                                                <rect key="frame" x="0.0" y="0.0" width="100" height="56"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="height" constant="100" id="fDH-rU-KVo"/>
+                                                    <constraint firstAttribute="width" constant="100" id="yvd-06-myb"/>
+                                                </constraints>
+                                            </imageView>
+                                        </subviews>
+                                    </stackView>
+                                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="Wns-AI-Mbi">
+                                        <rect key="frame" x="110" y="-34" width="218" height="90"/>
+                                        <subviews>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="الدكتور محمد راتب النبالسى" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rq8-9o-0Bv">
+                                                <rect key="frame" x="0.0" y="0.0" width="218" height="30"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                <nil key="textColor"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="أستاذ العقيدة والفقه" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="k8j-4l-exb">
+                                                <rect key="frame" x="0.0" y="30" width="218" height="30"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                <nil key="textColor"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacingType="standard" translatesAutoresizingMaskIntoConstraints="NO" id="CPH-k3-xUQ">
+                                                <rect key="frame" x="0.0" y="60" width="218" height="30"/>
+                                                <subviews>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="عدد السلاسل" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="NpF-CI-rmE" userLabel="عدد السلاسل  ">
+                                                        <rect key="frame" x="0.0" y="0.0" width="120" height="30"/>
+                                                        <constraints>
+                                                            <constraint firstAttribute="width" constant="120" id="w1v-ug-OKH"/>
+                                                        </constraints>
+                                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                        <nil key="textColor"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                    <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="45" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ifo-FE-RMg">
+                                                        <rect key="frame" x="130" y="0.0" width="30" height="30"/>
+                                                        <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                        <constraints>
+                                                            <constraint firstAttribute="width" constant="30" id="991-bg-Qqh"/>
+                                                            <constraint firstAttribute="height" constant="30" id="iqS-VV-n9U"/>
+                                                        </constraints>
+                                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                        <nil key="highlightedColor"/>
+                                                        <userDefinedRuntimeAttributes>
+                                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isCircle" value="YES"/>
+                                                        </userDefinedRuntimeAttributes>
+                                                    </label>
+                                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="bOQ-M2-Oen">
+                                                        <rect key="frame" x="168" y="0.0" width="50" height="30"/>
+                                                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                                        <constraints>
+                                                            <constraint firstAttribute="width" constant="50" id="SMj-qb-f5J"/>
+                                                        </constraints>
+                                                    </view>
+                                                </subviews>
+                                                <constraints>
+                                                    <constraint firstItem="ifo-FE-RMg" firstAttribute="leading" secondItem="NpF-CI-rmE" secondAttribute="trailing" constant="10" id="TvZ-D3-yGp"/>
+                                                </constraints>
+                                            </stackView>
+                                        </subviews>
+                                    </stackView>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstAttribute="bottom" secondItem="zWo-3V-k4i" secondAttribute="bottom" id="2NN-kl-rOW"/>
+                            <constraint firstAttribute="trailing" secondItem="zWo-3V-k4i" secondAttribute="trailing" id="HSc-aq-Ien"/>
+                            <constraint firstItem="zWo-3V-k4i" firstAttribute="leading" secondItem="n61-oJ-vap" secondAttribute="leading" constant="10" id="tAr-uy-eEg"/>
+                            <constraint firstItem="zWo-3V-k4i" firstAttribute="top" secondItem="n61-oJ-vap" secondAttribute="top" constant="10" id="zjL-9n-x0m"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="n61-oJ-vap" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="Jcl-q8-QCl"/>
+                    <constraint firstItem="n61-oJ-vap" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="15" id="Qp9-Cs-oQ6"/>
+                    <constraint firstAttribute="bottom" secondItem="n61-oJ-vap" secondAttribute="bottom" constant="10" id="idK-0E-cEN"/>
+                    <constraint firstAttribute="trailing" secondItem="n61-oJ-vap" secondAttribute="trailing" id="mBN-wS-qth"/>
+                </constraints>
+                <userDefinedRuntimeAttributes>
+                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                        <real key="value" value="10"/>
+                    </userDefinedRuntimeAttribute>
+                </userDefinedRuntimeAttributes>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="courseCount" destination="ifo-FE-RMg" id="mmi-bm-jek"/>
+                <outlet property="jobTitle" destination="k8j-4l-exb" id="SPk-Hh-VbI"/>
+                <outlet property="teacherImage" destination="3UH-ZP-lEV" id="lv1-dM-9uY"/>
+                <outlet property="teacherName" destination="rq8-9o-0Bv" id="ivp-B6-PTM"/>
+            </connections>
+            <point key="canvasLocation" x="237.68115942028987" y="165.73660714285714"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="ShekhImage" width="56" height="56"/>
+    </resources>
+</document>

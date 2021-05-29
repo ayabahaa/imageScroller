@@ -1,0 +1,183 @@
+
+/* Class = "UILabel"; text = "أعضاء هيئة التدريس"; ObjectID = "0ax-Dn-G7B"; */
+"0ax-Dn-G7B.text" = "أعضاء هيئة التدريس";
+
+/* Class = "UITextField"; placeholder = "الاسم بالكامل"; ObjectID = "1Wz-Dw-NQz"; */
+"1Wz-Dw-NQz.placeholder" = "الاسم بالكامل";
+
+/* Class = "UILabel"; text = "المدينة"; ObjectID = "1u6-5i-UEX"; */
+"1u6-5i-UEX.text" = "المدينة";
+
+/* Class = "UILabel"; text = "الايميال"; ObjectID = "2TN-TG-XgS"; */
+"2TN-TG-XgS.text" = "الايميال";
+
+/* Class = "UILabel"; text = "نسيت كلمة المرور ؟"; ObjectID = "48Y-7V-O1v"; */
+"48Y-7V-O1v.text" = "نسيت كلمة المرور ؟";
+
+/* Class = "UIButton"; normalTitle = "موافق"; ObjectID = "49g-Wl-IQ4"; */
+"49g-Wl-IQ4.normalTitle" = "موافق";
+
+/* Class = "UILabel"; text = "مستخدم بالفعل؟"; ObjectID = "4Cr-cR-WMx"; */
+"4Cr-cR-WMx.text" = "مستخدم بالفعل؟";
+
+/* Class = "UILabel"; text = "تم تسجيل الدخول بنجاح\nيمكنك الان تصفح التطبيق"; ObjectID = "50y-yW-K11"; */
+"50y-yW-K11.text" = "تم تسجيل الدخول بنجاح\nيمكنك الان تصفح التطبيق";
+
+/* Class = "UIViewController"; title = "الدورات المسجلة"; ObjectID = "635-2f-fRQ"; */
+"635-2f-fRQ.title" = "الدورات المسجلة";
+
+/* Class = "UIBarButtonItem"; title = "تسجيل"; ObjectID = "6k3-Lc-oO9"; */
+"6k3-Lc-oO9.title" = "تسجيل";
+
+/* Class = "UITextField"; placeholder = "البريد الالكتروني"; ObjectID = "8Ch-7y-vZe"; */
+"8Ch-7y-vZe.placeholder" = "البريد الالكتروني";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "96e-M6-MTG"; */
+"96e-M6-MTG.text" = "Label";
+
+/* Class = "UILabel"; text = "الدورات الأكثر بحثا"; ObjectID = "9aC-r3-Gbq"; */
+"9aC-r3-Gbq.text" = "الدورات الأكثر بحثا";
+
+/* Class = "UITextField"; placeholder = " كلمة المرور"; ObjectID = "B88-LZ-GaR"; */
+"B88-LZ-GaR.placeholder" = " كلمة المرور";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "D5D-sy-d5G"; */
+"D5D-sy-d5G.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "النوع"; ObjectID = "DmZ-Wf-Ius"; */
+"DmZ-Wf-Ius.placeholder" = "النوع";
+
+/* Class = "UIViewController"; title = "هيئة تدريس"; ObjectID = "E9v-Aa-e32"; */
+"E9v-Aa-e32.title" = "هيئة تدريس";
+
+/* Class = "UILabel"; text = "إليك بعض النتائج عن الحديث النبوي"; ObjectID = "EgE-1g-KD7"; */
+"EgE-1g-KD7.text" = "إليك بعض النتائج عن الحديث النبوي";
+
+/* Class = "UILabel"; text = "الدولة"; ObjectID = "Ewj-nX-XGz"; */
+"Ewj-nX-XGz.text" = "الدولة";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "FQL-hf-m9N"; */
+"FQL-hf-m9N.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "تسجيل الدخول"; ObjectID = "GdX-Wz-uL7"; */
+"GdX-Wz-uL7.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UITextField"; placeholder = "المدينة"; ObjectID = "Go0-gj-FFU"; */
+"Go0-gj-FFU.placeholder" = "المدينة";
+
+/* Class = "UITextField"; placeholder = "تاكيد كلمة المرور"; ObjectID = "H10-0c-Aze"; */
+"H10-0c-Aze.placeholder" = "تاكيد كلمة المرور";
+
+/* Class = "UIButton"; normalTitle = "الغاء"; ObjectID = "JCC-xw-A0y"; */
+"JCC-xw-A0y.normalTitle" = "الغاء";
+
+/* Class = "UIViewController"; title = "دورات وبرامج"; ObjectID = "MVd-WM-lJ2"; */
+"MVd-WM-lJ2.title" = "دورات وبرامج";
+
+/* Class = "UIViewController"; title = "تقارير الانجاز"; ObjectID = "N9t-45-TpC"; */
+"N9t-45-TpC.title" = "تقارير الانجاز";
+
+/* Class = "UITextField"; placeholder = " كلمة المرور الحالية"; ObjectID = "Npr-OR-Xe1"; */
+"Npr-OR-Xe1.placeholder" = " كلمة المرور الحالية";
+
+/* Class = "UITextField"; placeholder = "رقم الجوال"; ObjectID = "Nrq-9i-y5G"; */
+"Nrq-9i-y5G.placeholder" = "رقم الجوال";
+
+/* Class = "UIButton"; normalTitle = "انضم للبناء العملى"; ObjectID = "NsV-Lh-wMz"; */
+"NsV-Lh-wMz.normalTitle" = "انضم للبناء العملى";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "O40-Wv-Dlb"; */
+"O40-Wv-Dlb.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "ليس لديك حساب؟"; ObjectID = "Pju-bV-alA"; */
+"Pju-bV-alA.text" = "ليس لديك حساب؟";
+
+/* Class = "UIButton"; normalTitle = "موافق"; ObjectID = "SKd-0F-Dou"; */
+"SKd-0F-Dou.normalTitle" = "موافق";
+
+/* Class = "UILabel"; text = "سجل دخولك للاستمرار !!"; ObjectID = "UDM-mp-dgE"; */
+"UDM-mp-dgE.text" = "سجل دخولك للاستمرار !!";
+
+/* Class = "UIViewController"; title = "الدورات المنتهية"; ObjectID = "Y41-lx-TEG"; */
+"Y41-lx-TEG.title" = "الدورات المنتهية";
+
+/* Class = "UINavigationItem"; title = "البناء العلمي"; ObjectID = "YZU-37-j7I"; */
+"YZU-37-j7I.title" = "البناء العلمي";
+
+/* Class = "UITabBarItem"; title = "الرئيسية"; ObjectID = "ZaE-4y-yo6"; */
+"ZaE-4y-yo6.title" = "الرئيسية";
+
+/* Class = "UIButton"; normalTitle = "مشاهدة الكل"; ObjectID = "Zfu-bx-SXl"; */
+"Zfu-bx-SXl.normalTitle" = "مشاهدة الكل";
+
+/* Class = "UITextField"; placeholder = "البلد"; ObjectID = "ag3-fM-3Au"; */
+"ag3-fM-3Au.placeholder" = "البلد";
+
+/* Class = "UIButton"; normalTitle = "تسجيل الدخول"; ObjectID = "dKG-wr-DsF"; */
+"dKG-wr-DsF.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UITabBarItem"; title = "بحث"; ObjectID = "dUX-dN-p2G"; */
+"dUX-dN-p2G.title" = "بحث";
+
+/* Class = "UILabel"; text = "ــــــــ أو ــــــــ"; ObjectID = "ek4-Hh-q8F"; */
+"ek4-Hh-q8F.text" = "ــــــــ أو ــــــــ";
+
+/* Class = "UIViewController"; title = "الدورات المتاحة"; ObjectID = "fFI-PO-cq0"; */
+"fFI-PO-cq0.title" = "الدورات المتاحة";
+
+/* Class = "UINavigationItem"; title = "الدورات والمتون"; ObjectID = "feO-g7-HSi"; */
+"feO-g7-HSi.title" = "الدورات والمتون";
+
+/* Class = "UILabel"; text = "تغير كلمة المرور"; ObjectID = "jQJ-nd-Gcw"; */
+"jQJ-nd-Gcw.text" = "تغير كلمة المرور";
+
+/* Class = "UITextField"; placeholder = "البريد الالكتروني"; ObjectID = "jZF-WY-dMa"; */
+"jZF-WY-dMa.placeholder" = "البريد الالكتروني";
+
+/* Class = "UILabel"; text = "الدورات المتاحة"; ObjectID = "jng-QV-uAD"; */
+"jng-QV-uAD.text" = "الدورات المتاحة";
+
+/* Class = "UITabBarItem"; title = "الحساب"; ObjectID = "k4M-lC-isu"; */
+"k4M-lC-isu.title" = "الحساب";
+
+/* Class = "UILabel"; text = "مرحبا محمد"; ObjectID = "kE1-GW-bwC"; */
+"kE1-GW-bwC.text" = "مرحبا محمد";
+
+/* Class = "UITextField"; placeholder = "كلمة المرور"; ObjectID = "m2A-0f-eTi"; */
+"m2A-0f-eTi.placeholder" = "كلمة المرور";
+
+/* Class = "UIButton"; normalTitle = "مشاهدة الكل"; ObjectID = "nnG-IR-kKV"; */
+"nnG-IR-kKV.normalTitle" = "مشاهدة الكل";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "ofF-sf-Qts"; */
+"ofF-sf-Qts.title" = "Item";
+
+/* Class = "UILabel"; text = "عن ماذا تريد أن تتعلم اليوم\nيمكنك البحث عن ما تريد بالاسفل"; ObjectID = "qvn-K8-PIA"; */
+"qvn-K8-PIA.text" = "عن ماذا تريد أن تتعلم اليوم\nيمكنك البحث عن ما تريد بالاسفل";
+
+/* Class = "UITextField"; placeholder = "كلمة المرور"; ObjectID = "rYk-c2-hJ3"; */
+"rYk-c2-hJ3.placeholder" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "أخبرنا ببعض المعلومات عنك حتى\nيمكنك تسجيل حسابك"; ObjectID = "rtA-L8-nWy"; */
+"rtA-L8-nWy.text" = "أخبرنا ببعض المعلومات عنك حتى\nيمكنك تسجيل حسابك";
+
+/* Class = "UILabel"; text = "الاسم بالكامل"; ObjectID = "uMZ-K1-VxC"; */
+"uMZ-K1-VxC.text" = "الاسم بالكامل";
+
+/* Class = "UITabBarItem"; title = "الدورات"; ObjectID = "ujz-sz-zVO"; */
+"ujz-sz-zVO.title" = "الدورات";
+
+/* Class = "UIBarButtonItem"; title = "تسجيل حساب جديد"; ObjectID = "uwk-W0-waV"; */
+"uwk-W0-waV.title" = "تسجيل حساب جديد";
+
+/* Class = "UILabel"; text = "رقم الجوال"; ObjectID = "vFs-7W-ufh"; */
+"vFs-7W-ufh.text" = "رقم الجوال";
+
+/* Class = "UILabel"; text = "التصنيفات"; ObjectID = "wuc-zK-acJ"; */
+"wuc-zK-acJ.text" = "التصنيفات";
+
+/* Class = "UILabel"; text = "محمد عبد الوهاب"; ObjectID = "yIs-Zw-RIq"; */
+"yIs-Zw-RIq.text" = "محمد عبد الوهاب";
+
+/* Class = "UILabel"; text = "تغير رقم السر"; ObjectID = "yOg-iA-NZ7"; */
+"yOg-iA-NZ7.text" = "تغير رقم السر";
